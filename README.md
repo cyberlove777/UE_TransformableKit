@@ -9,7 +9,7 @@ Actual version is 2.0. Updated 02.2026.
 
 [Documentation](https://github.com/cyberlove777/UE_TransformableKit/wiki)
 
-[Fab Store Page](https://www.fab.com/portal/listings/5027c718-80ad-43f6-b2d0-ae0b79567010/edit)
+[Fab Store Page](https://www.fab.com/listings/5add8893-aa29-4924-a472-dc106f2ee6de)
 
 [Features](#features)
 
