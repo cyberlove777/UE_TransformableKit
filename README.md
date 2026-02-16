@@ -2,8 +2,10 @@
 This repository is plugin Documentation, Issues and Support Page
 
 ## Description
-Kit consists of one customizable C++ class, derived from USplineComponent, Visualization Class to visualize actor's position and rotation at spline points and Details Panel Customization to set Actor's rotation at spline points.
+Transformable Kit consists of one customizable C++ class, derived from USplineComponent, Visualization Class to visualize actor's position and rotation at spline points and Details Panel Customization to set Actor's rotation at spline points.
 Actual version is 2.0. Updated 02.2026.
+
+![General Screenshot](/assets/images/readme/general.png)
 
 ## Links
 
