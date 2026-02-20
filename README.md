@@ -1,5 +1,5 @@
 # Transformable Kit is an Actor Component, spline based (Spline Component) tool to control transforms of any Actor.
-This repository is plugin Documentation, Issues, Quastions and Support Page (general bugs).
+This repository is plugin Documentation, Issues, Questions and Support Page (general bugs).
 
 ## Description
 Transformable Kit consists of one customizable C++ class, derived from USplineComponent, Visualization Class to visualize actor's position and rotation at spline points and Details Panel Customization to set Actor's rotation at spline points.
